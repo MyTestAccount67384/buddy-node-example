@@ -1,0 +1,23 @@
+{
+  "name": "buddy-node-example",
+  "private": true,
+  "description": "Hello!",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyTestAccount67384/buddy-node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyTestAccount67384/buddy-node-example/issues"
+  },
+  "homepage": "https://github.com/MyTestAccount67384/buddy-node-example#readme",
+  "devDependencies": {
+    "xo": "^0.25.3"
+  }
+}
